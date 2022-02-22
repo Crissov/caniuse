@@ -464,7 +464,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"video",
-  "keywords":"xiph,matroska,mkv",
+  "keywords":"xiph,matroska,mkv,codec",
   "ie_id":"theoravideocodec,oggcontainer",
   "chrome_id":"",
   "firefox_id":"",
