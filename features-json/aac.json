@@ -464,7 +464,7 @@
   "usage_perc_a":4.37,
   "ucprefix":false,
   "parent":"audio",
-  "keywords":"audio/aac,m4a",
+  "keywords":"audio,codec,mpeg,m4a",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
