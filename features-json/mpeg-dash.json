@@ -469,7 +469,7 @@
   "usage_perc_a":0,
   "ucprefix":false,
   "parent":"",
-  "keywords":"m3u,m3u8,playlist,fragment,mpeg",
+  "keywords":"playlist,fragment,mpeg",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
