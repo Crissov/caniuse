@@ -1,6 +1,6 @@
 {
   "title":"Animated PNG (APNG)",
-  "description":"Like animated GIFs, but allowing 24-bit colors and alpha transparency",
+  "description":"Like animated GIFs, but allowing 24-bit colors and alpha transparency like [WebP](/webp)",
   "spec":"https://wiki.mozilla.org/APNG_Specification",
   "status":"unoff",
   "links":[
