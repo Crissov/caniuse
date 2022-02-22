@@ -464,7 +464,7 @@
   "usage_perc_a":0.12,
   "ucprefix":false,
   "parent":"audio",
-  "keywords":"mpeg,mp2",
+  "keywords":"mpeg,mp2,audio,codec",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
