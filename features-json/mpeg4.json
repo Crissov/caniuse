@@ -477,7 +477,7 @@
   "usage_perc_a":1.39,
   "ucprefix":false,
   "parent":"video",
-  "keywords":"avc,mp4,mpv,mov,aac,h264,m4a,m4b,m4v",
+  "keywords":"avc,mp4,mpv,mov,aac,h264,m4a,m4b,m4v,codec",
   "ie_id":"",
   "chrome_id":"",
   "firefox_id":"",
